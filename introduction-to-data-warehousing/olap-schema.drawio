@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="mzcR0ytcABa9muztdbqk" name="Page-1">
+        <mxGraphModel dx="1361" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;strokeWidth=3;sketch=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="160" width="324" height="360" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
